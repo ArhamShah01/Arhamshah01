@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hi, I'm Arham Shah</h1>
-<h3 align="center">A college student based in India</h3>
+<div align="center"> <h3><code>arhamshah01@github ~ $ whoami</code></h3> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=arhamshah01&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=arhamshah01&theme=aurora&style=terminal&mode=dark" width="100%" alt="arhamshah01 portrait" /> </picture></td> <td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=arhamshah01&theme=aurora&style=terminal&label=Arham+Shah&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=arhamshah01&theme=aurora&style=terminal&label=Arham+Shah&mode=dark" width="100%" alt="arhamshah01 wordmark" />
 
-# 💫 About Me:
-🔭 I’m currently a college undergrad studying in India.<br>🌱 I’m currently learning OS, OOPS, DSA.
-
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ArhamShah01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arhamswapnilshah@gmail.com) 
