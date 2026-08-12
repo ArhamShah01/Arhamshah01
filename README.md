@@ -1,4 +1,4 @@
-<div align="center"> <h3><code>arhamshah01@github ~ $ whoami</code></h3> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=arhamshah01&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=arhamshah01&theme=aurora&style=terminal&mode=dark" width="100%" alt="arhamshah01 portrait" /> </picture></td> <td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=arhamshah01&theme=aurora&style=terminal&label=Arham+Shah&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=arhamshah01&theme=aurora&style=terminal&label=Arham+Shah&mode=dark" width="100%" alt="arhamshah01 wordmark" />
+<img src="https://www.gitskins.com/api/section/wordmark?username=arhamshah01&theme=aurora&style=terminal&label=Arham+Shah&mode=dark" width="100%" alt="arhamshah01 wordmark" />
 
 <br>
 <br>
